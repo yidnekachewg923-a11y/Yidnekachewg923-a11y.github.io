@@ -1,0 +1,20 @@
+body{
+  background-image: url(../image/b3.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 50px;
+  background-position: center;
+  background-color: fixed;
+}
+h1{
+  color: white;
+  text-align: center;
+  text-align: fixed;
+  text-shadow: 10px 5px;
+  color: chocolate;
+  letter-spacing: 10px;
+  font-size: 100px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
